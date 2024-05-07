@@ -122,7 +122,6 @@ docker exec -it gitlab gitlab-backup restore
 
 참고
 
-
 https://judo0179.tistory.com/50
 
 https://gitlab.com/gitlab-org/gitlab-foss/blob/master/doc/raketasks/backup_restore.md
